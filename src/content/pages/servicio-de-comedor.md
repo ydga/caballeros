@@ -19,7 +19,7 @@ Durante el servicio, el alumnado cuenta con la atención de monitores y monitora
 
 ### Aplicación para las familias
 
-A través de la aplicación **Mediterránea Andalucía**, disponible en Google Play y App Store, las familias pueden:
+A través de la aplicación **[Mediterránea Andalucía](https://andalucia.mediterranea-group.com/)**, disponible en [Google Play](https://play.google.com/store/apps/details?id=com.mediterraneaandalucia&hl=es) y [App Store](https://apps.apple.com/es/app/mediterranea-andalucia/id6755426825), las familias pueden:
 
 - Consultar los menús escolares.
 - Comunicar las faltas de asistencia.
