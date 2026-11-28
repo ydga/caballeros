@@ -1,6 +1,6 @@
 ---
 title: Nuestro colegio
-nav_label: Colegio
+nav_label: Nuestro colegio
 parent_page: ''
 eyebrow: Acerca de
 order: 2
