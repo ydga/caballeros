@@ -8,7 +8,9 @@ hide_from_navigation: false
 lede: Este mes, el alumnado disfrutará de un menú variado que incluye verduras, legumbres, pasta, arroz, pescado, carne, huevos y fruta. A continuación, podéis consultar el menú de cada día.
 main_image: /caballeros/images/Córdoba School Lunch Celebration.png
 items: []
-downloads: []
+downloads:
+  - title: Menú Escolar - Mayo 2026
+    file: /caballeros/images/2026_05_2.pdf
 ---
 
 ### Semana del 1 de mayo
