@@ -1,7 +1,7 @@
 ---
 title: Comedor escolar
 nav_label: Comedor escolar
-parent_page: about
+parent_page: servicios-adicionales
 eyebrow: Servicios Complementarios
 order: 100
 hide_from_navigation: false
