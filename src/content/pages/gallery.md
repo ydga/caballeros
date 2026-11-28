@@ -1,6 +1,6 @@
 ---
 title: Fotografías
-nav_label: Galería
+nav_label: Galería de fotos
 parent_page: about
 eyebrow: Galeria
 order: 3
