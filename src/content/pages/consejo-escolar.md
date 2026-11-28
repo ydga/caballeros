@@ -1,6 +1,6 @@
 ---
 title: Consejo escolar
-nav_label: Consejo
+nav_label: Consejo escolar
 parent_page: about
 eyebrow: '2026'
 order: 4
