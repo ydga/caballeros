@@ -8,7 +8,9 @@ hide_from_navigation: false
 lede: Conozca nuestra misión, nuestros valores y nuestro compromiso de ayudar a cada estudiante a aprender, crecer y alcanzar sus metas.
 main_image: /caballeros/images/Sunlit%20Orange%20Tree%20Courtyard.png
 items: []
-downloads: []
+downloads:
+  - title: Proyecto de Las Comunidades de Aprendizaje
+    file: /caballeros/images/proyecto-cda-caballeros-2.pdf
 ---
 
 Bienvenidos al CEIP Caballeros de Santiago, un colegio público bilingüe de Educación Infantil y Primaria situado en el corazón del casco histórico de Córdoba, en la emblemática Plaza de Valdelasgranas.
