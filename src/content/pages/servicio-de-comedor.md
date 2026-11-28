@@ -9,8 +9,10 @@ lede: El servicio de comedor escolar del CEIP Caballeros de Santiago, gestionado
 main_image: /caballeros/images/Children Enjoying a Balanced School Lunch.png
 items: []
 downloads:
-  - title: Nueva App servicio de comedor
+  - title: Instrucciones de registro y acceso a la aplicación
     file: /caballeros/images/app-colegios-andalucia_.pdf
+  - title: Plan de organización y funcionamiento del comedor escolar
+    file: /caballeros/images/comedor-escolar-actualizado-23-24-web.pdf
 ---
 
 El comedor ofrece menús variados y equilibrados, con información nutricional, indicación de alérgenos y recomendaciones para complementar la alimentación en casa. También contempla dietas especiales debidamente justificadas.
@@ -26,11 +28,5 @@ A través de la aplicación **[Mediterránea Andalucía](https://andalucia.medit
 - Consultar los recibos.
 - Abonar recibos pendientes con tarjeta.
 - Descargar las facturas del servicio.
-
-### Documentación de interés
-
-- Plan de organización y funcionamiento del comedor escolar.
-- Instrucciones de registro y acceso a la aplicación.
-- Menú escolar de mayo de 2026.
 
 El comedor escolar es mucho más que un lugar para comer: es un espacio para aprender, compartir y crecer adquiriendo hábitos de vida saludables.
